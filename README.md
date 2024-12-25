@@ -1,5 +1,5 @@
 - Hi, I’m @Ebno-Ya7ya
-- I’m interested in low lever programming languages/minecraft bedrock addons
+- I’m interested in low level programming languages/minecraft bedrock addons
 - I’m currently learning rust
 - maybe this thing up^^^ is cringe, but it's ok 
 
